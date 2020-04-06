@@ -3,7 +3,7 @@
 
 class HomePageData:
 
-    test_HomePage_data = [{"firstname":"Rahul","lastname":"shetty","gender":"Male"}, {"firstname":"Anshika", "lastname":"shetty", "gender":"Female"}]
+    test_HomePage_data = [{"firstname":"Adrian","lastname":"Jimenez","gender":"Male"}, {"firstname":"Hector", "lastname":"Perez", "gender":"Male"}]
 
     # @staticmethod
     # def getTestData(test_case_name):
